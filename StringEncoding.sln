@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringEncoding", "StringEncoding\StringEncoding.csproj", "{E3229F74-E916-4FB5-9979-56A3623CD420}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringTest", "StringTest\StringTest.csproj", "{E96AF2CB-D391-4B39-A470-9798EBE4DE8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3229F74-E916-4FB5-9979-56A3623CD420}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3229F74-E916-4FB5-9979-56A3623CD420}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3229F74-E916-4FB5-9979-56A3623CD420}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3229F74-E916-4FB5-9979-56A3623CD420}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E96AF2CB-D391-4B39-A470-9798EBE4DE8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E96AF2CB-D391-4B39-A470-9798EBE4DE8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E96AF2CB-D391-4B39-A470-9798EBE4DE8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E96AF2CB-D391-4B39-A470-9798EBE4DE8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

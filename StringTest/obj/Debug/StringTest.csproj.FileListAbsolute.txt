@@ -1,0 +1,6 @@
+C:\Development\StringEncoding\StringTest\bin\Debug\StringTest.dll
+C:\Development\StringEncoding\StringTest\bin\Debug\StringTest.pdb
+C:\Development\StringEncoding\StringTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Development\StringEncoding\StringTest\obj\Debug\StringTest.dll
+C:\Development\StringEncoding\StringTest\obj\Debug\StringTest.pdb
+C:\Development\StringEncoding\StringTest\obj\Debug\StringTest.csprojResolveAssemblyReference.cache

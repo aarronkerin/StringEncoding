@@ -1,0 +1,6 @@
+C:\Development\StringEncoding\StringEncoding\bin\Debug\StringEncoding.exe.config
+C:\Development\StringEncoding\StringEncoding\bin\Debug\StringEncoding.exe
+C:\Development\StringEncoding\StringEncoding\bin\Debug\StringEncoding.pdb
+C:\Development\StringEncoding\StringEncoding\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Development\StringEncoding\StringEncoding\obj\Debug\StringEncoding.exe
+C:\Development\StringEncoding\StringEncoding\obj\Debug\StringEncoding.pdb
